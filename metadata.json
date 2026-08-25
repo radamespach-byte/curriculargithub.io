@@ -1,0 +1,6 @@
+{
+  "name": "OnlineCV Builder Clone",
+  "description": "Creador y editor interactivo de currículums en tiempo real inspirado en la estética y funcionalidad de app.onlinecv.es con plantillas profesionales, personalización de estilos, sugerencias y exportación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
